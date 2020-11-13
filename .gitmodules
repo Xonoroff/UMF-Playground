@@ -4,3 +4,6 @@
 [submodule "Assets/modular-framework-unity-popup-system"]
 	path = Assets/modular-framework-unity-popup-system
 	url = https://github.com/Xonoroff/modular-framework-unity-popup-system.git
+[submodule "Assets/modular-framework-popup-system"]
+	path = Assets/modular-framework-popup-system
+	url = https://github.com/Xonoroff/modular-framework-unity-popup-system.git
