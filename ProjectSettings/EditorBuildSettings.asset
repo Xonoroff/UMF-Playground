@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/modular-framework-popup-system/Scripts/tests/playmode/PopupsModule.Tests.Playmode.MainScene.unity
+    guid: 268505f78b388ed4c97e5daf1f0d4cdf
   m_configObjects: {}
