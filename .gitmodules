@@ -7,3 +7,6 @@
 [submodule "Assets/modular-framework-popup-system"]
 	path = Assets/modular-framework-popup-system
 	url = https://github.com/Xonoroff/modular-framework-unity-popup-system.git
+[submodule "Assets/UMF-Advertisement"]
+	path = Assets/UMF-Advertisement
+	url = git@github.com:Xonoroff/UMF-Advertisement.git
