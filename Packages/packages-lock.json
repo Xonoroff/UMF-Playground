@@ -1,5 +1,29 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9e2163616b9c527fa9461544e2bcc5f93fd12d83"
+    },
+    "com.svermeulen.extenject": {
+      "version": "https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "fffae33fd30ae2f933b1f263ebaee87447d3efb7"
+    },
+    "com.umf.core": {
+      "version": "https://github.com/Xonoroff/UMF-Core.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.svermeulen.extenject": "https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/",
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+      },
+      "hash": "ba352ae41ece34aff36f4449d997b2ff6f074e90"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
